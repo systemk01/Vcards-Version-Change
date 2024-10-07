@@ -1,0 +1,9 @@
+[package]
+name = "file-reader2"
+version = "0.1.0"
+edition = "2021"
+authors = ["KHG systemk1@icloud.com"]
+
+[dependencies]
+encoding_rs = "0.8"
+encoding_rs_io = "0.1"
